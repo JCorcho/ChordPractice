@@ -1,0 +1,24 @@
+C major – C E G
+C sharp major – C♯ E♯ G♯
+D major – D F♯ A
+E flat major – E♭ G B♭
+E major – E G♯ B
+F major – F A C
+F sharp major – F♯ A♯ C♯
+G major – G B D
+A flat major – A♭ C E♭
+A major – A C♯ E
+B♭ major – B♭ D F
+B major – B D♯ F♯
+C minor – C E♭ G
+C sharp minor – C♯ E G♯
+D minor – D F A
+E flat minor – E♭ G♭ B♭
+E minor – E G B
+F minor – F A♭ C
+F sharp minor – F♯ A C♯
+G minor – G B♭ D
+A flat minor – A♭ C♭(B) E♭
+A minor – A C E
+B flat minor – B♭ D♭ F
+B minor – B D F♯
